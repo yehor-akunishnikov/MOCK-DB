@@ -8,6 +8,24 @@
         "announcer": "Головин Кирилл",
         "playlistId": 1,
         "image": "https://akniga.org/uploads/media/topic/2021/11/25/14/preview/c6f51e470cc43344dae7_400x.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Невероятные мечты",
+        "author": "Пратт Тим",
+        "description": "Смысл жизни Пита — кино. Он считает, что знает про фильмы всё. Но магазин «Невероятные Мечты» поразил его своим ассортиментом.",
+        "announcer": "Головин Кирилл",
+        "playlistId": 2,
+        "image": "https://akniga.org/uploads/media/topic/2021/11/25/13/preview/48ddd0547ac057058bda_400x.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Да Здравствует Призыв",
+        "author": "Ся Фэй Шуан Цзя",
+        "description": "Юэ Ян, получив волшебный пендель от священника, неожиданно переносится в этот мир. Сразу после пробуждения его встречают множество взволнованных людей. Оказывается, он незаметно заменил собой совсем другого человека — бездарного третьего сына семьи Юэ, который утопился из-за полосы неудач.",
+        "announcer": "Rulate Audio",
+        "playlistId": 3,
+        "image": "https://akniga.org/uploads/media/topic/2021/11/25/16/preview/2faef6a3fbbd2e347c9f_400x.jpg"
       }
     ],
     "playlists": [
@@ -17,10 +35,28 @@
                 {
                     "name": "1",
                     "url": "https://m2.akniga.club/b/71564/wsMcOT96WQYd4au-mlc7pQ,,/01.%20%D0%A0%D0%B5%D0%B7%D0%BD%D0%B8%D0%BA%20%D0%9C%D0%B0%D0%B9%D0%BA%20-%20%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B5%D1%80%D0%BC%D0%B0.mp3"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "chapters": [
+                {
+                    "name": "1",
+                    "url": "https://m2.akniga.club/b/71563/HFwpH8S5e8gTVAhoo8hoYA,,/01.%20%D0%9F%D1%80%D0%B0%D1%82%D1%82%20%D0%A2%D0%B8%D0%BC%20-%20%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%87%D1%82%D1%8B.mp3"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "chapters": [
+                {
+                    "name": "Том 1 - Часть 1",
+                    "url": "https://m2.akniga.club/b/71565/HFwpH8S5e8gTVAhoo8hoYA,,/01.%20%D0%A1%D1%8F%20%D0%A4%D1%8D%D0%B9%20%D0%A8%D1%83%D0%B0%D0%BD%20%D0%A6%D0%B7%D1%8F%20-%20%D0%94%D0%B0%20%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82%20%D0%9F%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%20-%20%D0%A2%D0%BE%D0%BC%201%20-%20%D0%93%D0%BB%D0%B0%D0%B2%D1%8B%201-24.mp3"
                 },
                 {
-                    "name": "2",
-                    "url": "https://m2.akniga.club/b/71592/wsMcOT96WQYd4au-mlc7pQ,,/01.%20%D0%A8%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20-%20%D0%92%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B.mp3"
+                    "name": "Том 1 - Часть 2",
+                    "url": "https://m2.akniga.club/b/71565/HFwpH8S5e8gTVAhoo8hoYA,,/02.%20%D0%A1%D1%8F%20%D0%A4%D1%8D%D0%B9%20%D0%A8%D1%83%D0%B0%D0%BD%20%D0%A6%D0%B7%D1%8F%20-%20%D0%94%D0%B0%20%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82%20%D0%9F%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%20-%20%D0%A2%D0%BE%D0%BC%201%20-%20%D0%93%D0%BB%D0%B0%D0%B2%D1%8B%201-24.mp3"
                 }
             ]
         }
